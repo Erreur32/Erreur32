@@ -4,16 +4,6 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" /> 
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />  
 
-<table><center>
-<tr>
-<td valign="top">
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
-</td>
-</tr>
-</center>
-</table>  
 
 <br/>  
 
@@ -37,8 +27,6 @@
 </a>
  
  
-</div>  
-  
 
 <br/>  
 
@@ -59,6 +47,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erreur32&layout=compact)](https://github.com/Erreur32/Erreur32)
 
+</div>  
+  
 <!--
 **Erreur32/Erreur32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
