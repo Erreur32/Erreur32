@@ -50,7 +50,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erreur32&layout=compact)](https://github.com/Erreur32/Erreur32)
 
 
-<h2>echosystem.fr</h2>
+ <a href="https://echosystem.fr"><img src="https://echosystem.fr/user/themes/quark/images/logo/piratex_Echo.300.png" title="Echosystem.fr">
+				<br><img src="https://img.shields.io/badge/ECHO-System-blue" title="Echosystem.fr logo badge"></a>
 
 </div>  
 
