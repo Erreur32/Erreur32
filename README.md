@@ -39,10 +39,9 @@
 			 
 <br/>  
  <a href="https://git.echosystem.fr/Erreur32"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" title="Bash power" /> <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" title="Linux lover" /></a>
-				<br/> <a href="https://git.echosystem.fr/Erreur32/MOTDs32"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=MOTDs32"></a>  <br/>  
-				<img src="https://komarev.com/ghpvc/?username=erreur32&&style=flat-square" align="center" title="Erreur32 repo stat"/>
 
- 
+<br/> <a href="https://git.echosystem.fr/Erreur32/MOTDs32"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=MOTDs32"></a>
+<br/> <img src="https://komarev.com/ghpvc/?username=erreur32&&style=flat-square" align="center" title="Erreur32 repo stat"/>
 <br/>  
 
 <div align="center">
@@ -50,9 +49,7 @@
 </div>  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erreur32&layout=compact)](https://github.com/Erreur32/Erreur32)
-
-
+ 
  <a href="https://echosystem.fr"><img src="https://echosystem.fr/user/themes/quark/images/logo/piratex_Echo.300.png" title="Echosystem.fr">
 				<br><img src="https://img.shields.io/badge/ECHO-System-blue" title="Echosystem.fr logo badge"></a>
 
