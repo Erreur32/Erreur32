@@ -35,9 +35,12 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=erreur32&show_icons=true&count_private=true" align="center" /></div>  
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erreur32&layout=compact&show_icons=true&theme=bear&hide=javascript,css" title="Erreur32 repo stat"  align="center"  style="height: 190px ;width: auto;" />
+			 
 <br/>  
-
+ <a href="https://git.echosystem.fr/Erreur32"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" title="Bash power" /> <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" title="Linux lover" /></a>
+				<br/> <a href="https://git.echosystem.fr/Erreur32/MOTDs32"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=MOTDs32"></a>  <br/>  
+				<img src="https://komarev.com/ghpvc/?username=erreur32&&style=flat-square" align="center" title="Erreur32 repo stat"/>
 
  
 <br/>  
