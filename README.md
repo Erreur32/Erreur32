@@ -1,11 +1,8 @@
 <div align="center">
 
-## My Skill Set  
 
 
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" /> 
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />  
-
+https://metrics.lecoq.io/about/Erreur32
 
 <br/>  
 
