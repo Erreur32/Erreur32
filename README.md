@@ -26,7 +26,7 @@ https://metrics.lecoq.io/about/Erreur32
 </a>
  
  <p align="center">
-  <a href="https://github.com/Erreur32/DayZ-Stat-Server/releases/">
+  <a href="https://github.com/Erreur32/DayZ-Stat-Server/releases">
     <img alt="Releases" src="https://img.shields.io/github/v/release/[user]/[repository]?label=release&logo=DocuSign&logoColor=%23fff&style=for-the-badge" />
   </a>
   <a href=""><img alt="" src="" /></a>
