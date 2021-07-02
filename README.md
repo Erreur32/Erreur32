@@ -40,7 +40,7 @@
  <a href="https://echosystem.fr"><img src="https://echosystem.fr/user/themes/quark/images/logo/piratex_Echo.300.png" title="Echosystem.fr">
  <br/> <img src="https://img.shields.io/badge/ECHO-System-blue" title="Echosystem.fr logo badge"></a>
 
-</div>  
+
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Erreur32&bg_color=020228&color=eb76ce&line=2f8dbb&point=5a5656&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
@@ -63,7 +63,9 @@ Here are some ideas to get you started:
 -->
 
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=echosystem_fr)](https://github.com/gazf/github-readme-twitter)
+ [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=echosystem_fr)](https://github.com/gazf/github-readme-twitter)
 
  
-https://metrics.lecoq.io/about/Erreur32
+  https://metrics.lecoq.io/about/Erreur32
+	
+	</div>  
