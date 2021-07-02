@@ -3,7 +3,7 @@
 
 <br/>  
 
-	[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=450&lines=G33k+%40inside+;Gnu-root+qui+aime+jouer+avec+son+Unix%2C+;quoi+vous+avez+dit+un+Nolife+G33k+%3F;+Je+s'appel+root+%F0%9F%85%B4%F0%9F%86%81%F0%9F%86%81%F0%9F%85%B4%F0%9F%86%84%F0%9F%86%8132+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=450&lines=G33k+%40inside+;Gnu-root+qui+aime+jouer+avec+son+Unix%2C+;quoi+vous+avez+dit+un+Nolife+G33k+%3F;+Je+s'appel+root+%F0%9F%85%B4%F0%9F%86%81%F0%9F%86%81%F0%9F%85%B4%F0%9F%86%84%F0%9F%86%8132+)](https://git.io/typing-svg)
 
 ## Connect with me  
 	
