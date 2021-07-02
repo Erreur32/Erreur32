@@ -33,8 +33,6 @@
 <!--<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=erreur32&show_icons=true&count_private=true" align="center" /></div>  -->
 <br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erreur32&layout=compact&show_icons=true&theme=bear&hide=javascript,css" title="Erreur32 repo stat"  align="center"  style="height: 190px ;width: auto;" />
 			 
-
-<br/> <a href="https://git.echosystem.fr/Erreur32/MOTDs32"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=MOTDs32"></a>
 <br/> <img src="https://komarev.com/ghpvc/?username=erreur32&&style=flat-square" align="center" title="Erreur32 repo stat"/>
 <br/>  
  <a href="https://echosystem.fr"><img src="https://echosystem.fr/user/themes/quark/images/logo/piratex_Echo.300.png" title="Echosystem.fr">
@@ -43,14 +41,16 @@
 
 <h2 align="center"> Top Projects </h2>
 <br>
+ 
+<a href="https://git.echosystem.fr/Erreur32/MOTDs32"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=MOTDs32"></a>	
+	
+  <a align="left" href="https://github.com/Erreur32/NIWPI" title="Ip check"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=NIWPI&theme=react&border_color=61dafb&border_radius=10"></a>
   
-  <a align="left" href="https://github.com/Erreur32/NIWPI" title="Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=NIWPI&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Erreur32/DayZ-Stat-Server" title="Dayz stat Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=DayZ-Stat-Server&theme=react&border_color=61dafb&border_radius=10"></a>
   
-  <a align="right" href="https://github.com/Erreur32/DayZ-Stat-Server" title="Website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=DayZ-Stat-Server&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Erreur32/Make-My-htpasswd" title="password"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=Make-My-htpasswd&theme=react&border_color=61dafb&border_radius=10"></a>
   
-  <a align="left" href="https://github.com/Erreur32/Make-My-htpasswd" title="Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=Make-My-htpasswd&theme=react&border_color=61dafb&border_radius=10"></a>
-  
-  <a align="right" href="https://github.com/Erreur32/MOTDs32" title="Data Science"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=MOTDs32&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Erreur32/MOTDs32" title="shell motd"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=MOTDs32&theme=react&border_color=61dafb&border_radius=10"></a>
  
 
 
