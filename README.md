@@ -1,9 +1,5 @@
 <div align="center">
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=echosystem_fr)](https://github.com/gazf/github-readme-twitter)
-
- 
-https://metrics.lecoq.io/about/Erreur32
 
 <br/>  
 
@@ -62,3 +58,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=echosystem_fr)](https://github.com/gazf/github-readme-twitter)
+
+ 
+https://metrics.lecoq.io/about/Erreur32
