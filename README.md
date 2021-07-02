@@ -28,7 +28,7 @@
 
 
 ## Github Stats  
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Erreur32&show_icons=true&count_private=true&show_icons=true&theme=dracula"  title="Erreur32 repo" style="height: 180px ;width: auto;"/></div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Erreur32&show_icons=true&count_private=true&show_icons=true&theme=dracula"  title="Erreur32 repo" style="height: 180px ;width: auto;"/>
 	
 <!--<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=erreur32&show_icons=true&count_private=true" align="center" /></div>  -->
 <br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erreur32&layout=compact&show_icons=true&theme=bear&hide=javascript,css" title="Erreur32 repo stat"  align="center"  style="height: 190px ;width: auto;" />
@@ -68,4 +68,4 @@ Here are some ideas to get you started:
  
   https://metrics.lecoq.io/about/Erreur32
 	
-	</div>  
+</div>
