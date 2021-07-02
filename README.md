@@ -24,22 +24,7 @@
 </a>
  
 
-<h2 align="center"> Top Projects </h2>
-<br>
-<div width="100%" align="center">
-  
-  <a align="left" href="https://github.com/Erreur32/NIWPI" title="Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=NIWPI&theme=react&border_color=61dafb&border_radius=10"></a>
-  
-  <a align="right" href="https://github.com/Erreur32/DayZ-Stat-Server" title="Website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=DayZ-Stat-Server&theme=react&border_color=61dafb&border_radius=10"></a>
-  
-  <a align="left" href="https://github.com/Erreur32/Make-My-htpasswd" title="Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=Make-My-htpasswd&theme=react&border_color=61dafb&border_radius=10"></a>
-  
-  <a align="right" href="https://github.com/Erreur32/MOTDs32" title="Data Science"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=MOTDs32&theme=react&border_color=61dafb&border_radius=10"></a>
-  
-</div>
-
-<br/><br/><br/>
-<br/>  
+<br /><br />
 
 
 ## Github Stats  
@@ -55,6 +40,18 @@
  <a href="https://echosystem.fr"><img src="https://echosystem.fr/user/themes/quark/images/logo/piratex_Echo.300.png" title="Echosystem.fr">
  <br/> <img src="https://img.shields.io/badge/ECHO-System-blue" title="Echosystem.fr logo badge"></a>
 
+
+<h2 align="center"> Top Projects </h2>
+<br>
+  
+  <a align="left" href="https://github.com/Erreur32/NIWPI" title="Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=NIWPI&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+  <a align="right" href="https://github.com/Erreur32/DayZ-Stat-Server" title="Website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=DayZ-Stat-Server&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+  <a align="left" href="https://github.com/Erreur32/Make-My-htpasswd" title="Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=Make-My-htpasswd&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+  <a align="right" href="https://github.com/Erreur32/MOTDs32" title="Data Science"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=MOTDs32&theme=react&border_color=61dafb&border_radius=10"></a>
+ 
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Erreur32&bg_color=020228&color=eb76ce&line=2f8dbb&point=5a5656&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
