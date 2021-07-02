@@ -24,7 +24,21 @@
 </a>
  
 
+<h2 align="center"> Top Projects </h2>
+<br>
+<div width="100%" align="center">
+  
+  <a align="left" href="https://github.com/Erreur32/NIWPI" title="Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=NIWPI&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+  <a align="right" href="https://github.com/Erreur32/DayZ-Stat-Server" title="Website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=DayZ-Stat-Server&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+  <a align="left" href="https://github.com/Erreur32/Make-My-htpasswd" title="Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=Make-My-htpasswd&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+  <a align="right" href="https://github.com/Erreur32/MOTDs32" title="Data Science"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=MOTDs32&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+</div>
 
+<br/><br/><br/>
 <br/>  
 
 
