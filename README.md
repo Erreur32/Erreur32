@@ -55,8 +55,8 @@
 <h2 align="center"> Top Projects </h2>
 <br>
  
-<a href="https://git.echosystem.fr/Erreur32/MOTDs32"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=MOTDs32"></a>	
-	
+<!--<a href="https://git.echosystem.fr/Erreur32/MOTDs32"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=MOTDs32"></a>	
+	-->
   <a align="left" href="https://github.com/Erreur32/NIWPI" title="Ip check"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=NIWPI&theme=react&border_color=61dafb&border_radius=10"></a>
   
   <a align="right" href="https://github.com/Erreur32/DayZ-Stat-Server" title="Dayz stat Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=DayZ-Stat-Server&theme=react&border_color=61dafb&border_radius=10"></a>
