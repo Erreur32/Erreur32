@@ -38,6 +38,9 @@
  <a href="https://echosystem.fr"><img src="https://echosystem.fr/user/themes/quark/images/logo/piratex_Echo.300.png" title="Echosystem.fr">
  <br/> <img src="https://img.shields.io/badge/ECHO-System-blue" title="Echosystem.fr logo badge"></a>
 
+	
+## Production Life
+	
 ```mermaid
 graph TD;
  A[Deploy in production]--> B(It's Friday?);
