@@ -38,7 +38,15 @@
  <a href="https://echosystem.fr"><img src="https://echosystem.fr/user/themes/quark/images/logo/piratex_Echo.300.png" title="Echosystem.fr">
  <br/> <img src="https://img.shields.io/badge/ECHO-System-blue" title="Echosystem.fr logo badge"></a>
 
-
+```mermaid
+graph TD;
+ A[Deploy in production]--> B(It's Friday?);
+ B -- YES --> C[Do not deploy!];
+ B -- No --> D[Let's Go] ;
+ C ----> E[Enjoy your weekend!];
+ D ----> E[Enjoy your weekend!];	
+```
+	
 ### 🛠 Tech Stack 
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
