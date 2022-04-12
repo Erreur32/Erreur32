@@ -58,7 +58,6 @@ graph TD;
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
-![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=MariaDB)
 
 </div>  
 <h2 align="center"> Top Projects </h2>
