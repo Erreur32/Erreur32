@@ -29,8 +29,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Erreur32&show_icons=true&count_private=true&show_icons=true&theme=dracula"  title="Erreur32 repo" style="height: 180px ;width: auto;"/>
 	
 <!--<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=erreur32&show_icons=true&count_private=true" align="center" /></div>  -->
-<br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erreur32&layout=compact&show_icons=true&theme=bear&hide=javascript,css" title="Erreur32 repo stat"  align="center"  style="height: 190px ;width: auto;" />
-			 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erreur32&layout=compact&show_icons=true&theme=bear&hide=javascript,css" title="Erreur32 repo stat"  align="center"  style="height: 190px ;width: auto;" />
+	
+![](https://github-readme-stats.vercel.app/api?username=Erreur32&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Erreur32&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erreur32&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Erreur32&theme=radical&no-frame=false&no-bg=true&margin-w=4)			 
 <br/> <img src="https://komarev.com/ghpvc/?username=erreur32&&style=flat-square" align="center" title="Erreur32 repo stat"/>
 <br/>  
  <a href="https://echosystem.fr"><img src="https://echosystem.fr/user/themes/quark/images/logo/piratex_Echo.300.png" title="Echosystem.fr">
@@ -97,14 +103,8 @@ Here are some ideas to get you started:
 
 
 # 💻 Tech Stack:
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Erreur32&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Erreur32&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erreur32&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Debian](https://img.shields.io/badge/bash-%23D42029.svg?style=plastic&logo=debian&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Erreur32&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Erreur32&icon=0&color=0)](https://visitcount.itsvg.in)
