@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 
 # 💻 Tech Stack:
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Debian](https://img.shields.io/badge/bash-%23D42029.svg?style=plastic&logo=appveyor&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23D42029.svg?style=plastic&logo=appveyor&logoColor=white)
 
 
 
