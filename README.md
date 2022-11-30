@@ -39,7 +39,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Erreur32&theme=radical&no-frame=false&no-bg=true&margin-w=4)			 
 <br/> <img src="https://komarev.com/ghpvc/?username=erreur32&&style=flat-square" align="center" title="Erreur32 repo stat"/>
 <br/>  
- <a href="https://echosystem.fr"><img src="[[https://echosystem.fr/user/themes/quark/images/logo/piratex_Echo.300.png](https://echosystem.fr/_img/echosystem.png)](https://echosystem.fr/_img/echosystem.png)" title="Echosystem.fr">
+ [https://echosystem.fr](https://echosystem.fr/_img/echosystem.png)
+	
  <br/> <img src="https://img.shields.io/badge/ECHO-System-blue" title="Echosystem.fr logo badge"></a>
 
 	
