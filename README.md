@@ -40,7 +40,6 @@
 <br/> <img src="https://komarev.com/ghpvc/?username=erreur32&&style=flat-square" align="center" title="Erreur32 repo stat"/>
 <br/>
 
-![https://echosystem.fr/_img/echosystem.png](https://echosystem.fr)
 	
  <br/> <img src="https://img.shields.io/badge/ECHO-System-blue" title="Echosystem.fr logo badge"></a>
 
