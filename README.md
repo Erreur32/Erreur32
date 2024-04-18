@@ -81,6 +81,7 @@ graph TD;
   <a align="right" href="https://github.com/Erreur32/MOTDs32" title="shell motd"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=MOTDs32&theme=react&border_color=61dafb&border_radius=10"></a>
  
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Erreur32&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Erreur32&bg_color=020228&color=eb76ce&line=2f8dbb&point=5a5656&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)]
 <!--
