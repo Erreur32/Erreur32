@@ -83,10 +83,7 @@ graph TD;
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Erreur32&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Erreur32&bg_color=020228&color=eb76ce&line=2f8dbb&point=5a5656&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)]
-<!--
-https://ashutosh00710.github.io/github-readme-activity-graph/
--->
+
 
 <!--
 **Erreur32/Erreur32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
