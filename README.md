@@ -5,24 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&center=true&width=450&height=65&lines=G33k+%40inside+;Un+Gnu+root+qui+aime+jouer+avec+son+Unix%2C+;quoi+vous+avez+dit+un+Nolife+G33k+%3F;%22+Je+s'appel+root+%22+;%F0%9F%85%B4%F0%9F%86%81%F0%9F%86%81%F0%9F%85%B4%F0%9F%86%84%F0%9F%86%8132+)](https://git.io/typing-svg)
 	
-## Connect with me  
-	
-<a href="https://github.com/Erreur32" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Echosystem_fr" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/Erreur32" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
- <a href="https://codepen.com/Erreur32" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a> 
 
- 
 
-<br /><br />
 
 
 ## Github Stats  
