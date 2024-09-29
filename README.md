@@ -79,11 +79,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-# 💻 Tech Stack:
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23D42029.svg?style=plastic&logo=appveyor&logoColor=white)
-
+	
+</div>
 
 
 ---
@@ -94,6 +91,5 @@ Here are some ideas to get you started:
  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=echosystem_fr)](https://github.com/gazf/github-readme-twitter)
 
  
-  https://metrics.lecoq.io/about/Erreur32
-	
-</div>
+ https://metrics.lecoq.io/about/Erreur32
+
