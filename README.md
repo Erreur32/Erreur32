@@ -37,9 +37,7 @@ graph TD;
 	
 ### 🛠 Tech Stack 
 
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache)
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian)
