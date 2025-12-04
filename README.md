@@ -10,6 +10,8 @@
 
 
 ## Github Stats  
+<img width="696" height="1134" alt="github-wrapped-Erreur32" src="https://github.com/user-attachments/assets/83dc2ff5-af42-413b-a5f5-f9c38465103d" />
+
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Erreur32&show_icons=true&count_private=true&show_icons=true&theme=dracula"  title="Erreur32 repo" style="height: 180px ;width: auto;"/>
 	
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=erreur32&show_icons=true&count_private=true" align="center" /></div>  
@@ -50,13 +52,7 @@ graph TD;
 <h2 align="center"> Top Projects </h2>
 <br>
  
-<!--<a href="https://git.echosystem.fr/Erreur32/MOTDs32"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=MOTDs32"></a>	
-	-->
-<a align="left" href="https://github.com/Erreur32/nginx-proxy-manager-API" title="nginx-proxy-manager-API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=nginx-proxy-manager-API&theme=react&border_color=61dafb&border_radius=10"></a>
-<a align="right" href="https://github.com/Erreur32/LogviewR" title="Log viewer shell"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=LogviewR&theme=react&border_color=61dafb&border_radius=10"></a>
-<a align="right" href="https://github.com/Erreur32/DayZ-Stat-Server" title="Dayz stat Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=DayZ-Stat-Server&theme=react&border_color=61dafb&border_radius=10"></a>
-<a align="left" href="https://github.com/Erreur32/Make-My-htpasswd" title="password"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=Make-My-htpasswd&theme=react&border_color=61dafb&border_radius=10"></a>
-<a align="right" href="https://github.com/Erreur32/MOTDs32" title="shell motd"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Erreur32&repo=MOTDs32&theme=react&border_color=61dafb&border_radius=10"></a>
+ 
  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Erreur32&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -83,11 +79,8 @@ Here are some ideas to get you started:
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Erreur32&icon=0&color=0)](https://visitcount.itsvg.in)
-
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=echosystem_fr)](https://github.com/gazf/github-readme-twitter)
 
  
  https://metrics.lecoq.io/about/Erreur32
