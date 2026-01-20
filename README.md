@@ -12,6 +12,8 @@
 ## Github Stats  
 <img width="696" height="1134" alt="github-wrapped-Erreur32" src="https://github.com/user-attachments/assets/83dc2ff5-af42-413b-a5f5-f9c38465103d" />
 
+https://www.trygitwrap.com/Erreur32
+
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Erreur32&show_icons=true&count_private=true&show_icons=true&theme=dracula"  title="Erreur32 repo" style="height: 180px ;width: auto;"/>
 	
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=erreur32&show_icons=true&count_private=true" align="center" /></div>  
