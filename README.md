@@ -41,7 +41,6 @@ graph TD;
 	
 ### 🛠 Tech Stack 
 
-
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
@@ -49,41 +48,15 @@ graph TD;
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache)
 ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx--Proxy--Manager-05122A?style=flat&logo=nginx)
 
-
 </div>  
 <h2 align="center"> Top Projects </h2>
 <br>
- 
- 
- 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Erreur32&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Erreur32&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-<!--
-**Erreur32/Erreur32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-	
 </div>
 
-
 ---
-
- 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
- 
- https://metrics.lecoq.io/about/Erreur32
-
+https://metrics.lecoq.io/about/Erreur32
